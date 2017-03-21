@@ -1,0 +1,22 @@
+{
+  "name": "ng-favoritos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cx783/ng-favoritos.git"
+  },
+  "author": "mcox",
+  "license": "MIT\t",
+  "bugs": {
+    "url": "https://github.com/cx783/ng-favoritos/issues"
+  },
+  "homepage": "https://github.com/cx783/ng-favoritos#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
